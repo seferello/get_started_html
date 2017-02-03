@@ -16,9 +16,9 @@ body {
   font-weight: 300;
   font-size: 20px;
   line-height: 1.7;
-  color: #777777;
+  color: #373737;
   color: #7f7f7f;
-  background: #fff;
+  background: #f4f4f4;
   height: 100%;
   position: relative;
 }
@@ -38,15 +38,16 @@ a {
 a:hover, a:active, a:focus {
   color: #52d3aa;
   outline: none;
-  text-decoration: none;
+  text-decoration: none;}
+nav {
+  color:
 }
-
 p {
   margin-bottom: 1.5em;
 }
 
 h1, h2, h3, h4, h5, h6 {
-  color: #000;
+  color: #DCD0C0;
   font-family: "Work Sans", Arial, sans-serif;
   font-weight: 300;
   margin: 0 0 30px 0;
