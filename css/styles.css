@@ -43,6 +43,15 @@ a:hover, a:active, a:focus {
 nav {
   color:
 }
+article {
+}
+aside {
+padding: 1em;
+  width: 25%;
+border: 8px solid darkred;
+background:#3d594b;
+float: right;
+}
 p {
   margin-bottom: 1.5em;
 }
@@ -53,11 +62,6 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 300;
   margin: 0 0 30px 0;
 }
-aside{
-padding: 1em;
-  width: 25%;
-border: 8px solid darkred;
-background:#3d594b;
-float: right;
-}
-
+footer {
+  border-top: 1pt solid;
+  
