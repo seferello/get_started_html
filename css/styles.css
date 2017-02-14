@@ -41,17 +41,36 @@ a:hover, a:active, a:focus {
   outline: none;
   text-decoration: none;}
 nav {
-  color:
+  color: ;
+  border: 1px;
+  border-style: solid;
+  background-color: ;
 }
 article {
+border: 1px;
+  border-style: solid;
+  border-color: blue;
+  padding: 10pt;
+  margin: 10pt;
+}
+article header {
+  font-style: italic;
+}
+article p {
+  margin-left: 20pt;
 }
 aside {
-padding: 1em;
-  width: 25%;
-border: 8px solid darkred;
-background:#3d594b;
-float: right;
+ display: inline-block;
+  width: 40%;
+  vertical-align: top;
+  margin-top: 20pt;
+  margin-left: 20pt;
 }
+
+aside h2 {
+  font-size: 16pt;
+}
+
 p {
   margin-bottom: 1.5em;
 }
@@ -62,6 +81,12 @@ h1, h2, h3, h4, h5, h6 {
   font-weight: 300;
   margin: 0 0 30px 0;
 }
+
 footer {
   border-top: 1pt solid;
-  
+}
+
+footer p {
+  font-size: 12pt;
+  text-align: right;
+}
