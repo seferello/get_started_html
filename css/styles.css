@@ -46,6 +46,8 @@ nav {
   border: 1px;
   border-style: solid;
   background-color: #FFFBFA;
+  padding: 10pt;
+  margin: 10pt;
 }
 article {
 border: 1px;
