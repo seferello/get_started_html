@@ -34,9 +34,10 @@ a {
 a:hover, a:active, a:focus {
   color: #D28473;
   outline: none;
-  text-decoration: none;}
+  text-decoration: none;
+}
 nav {
-  color: #9B5D4F;
+  color: #FFFBFA;
   border: 1px;
   border-style: solid;
   background-color: #FFFFFF;
